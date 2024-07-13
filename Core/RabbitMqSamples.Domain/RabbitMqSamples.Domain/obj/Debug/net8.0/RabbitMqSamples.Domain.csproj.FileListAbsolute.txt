@@ -1,0 +1,11 @@
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\bin\Debug\net8.0\RabbitMqSamples.Domain.deps.json
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\bin\Debug\net8.0\RabbitMqSamples.Domain.dll
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\bin\Debug\net8.0\RabbitMqSamples.Domain.pdb
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\RabbitMqSamples.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\RabbitMqSamples.Domain.AssemblyInfoInputs.cache
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\RabbitMqSamples.Domain.AssemblyInfo.cs
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\RabbitMqSamples.Domain.csproj.CoreCompileInputs.cache
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\RabbitMqSamples.Domain.dll
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\refint\RabbitMqSamples.Domain.dll
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\RabbitMqSamples.Domain.pdb
+E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Domain\RabbitMqSamples.Domain\obj\Debug\net8.0\ref\RabbitMqSamples.Domain.dll
