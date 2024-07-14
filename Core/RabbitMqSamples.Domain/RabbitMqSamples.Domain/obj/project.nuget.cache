@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqFjUElYvog=",
+  "dgSpecHash": "clLOgCkHm9s=",
   "success": true,
-  "projectFilePath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
+  "projectFilePath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

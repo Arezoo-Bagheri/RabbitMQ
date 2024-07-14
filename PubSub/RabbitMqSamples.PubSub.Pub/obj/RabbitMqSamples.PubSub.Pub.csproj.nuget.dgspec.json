@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\RabbitMqSamples\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj": {}
+    "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj": {}
   },
   "projects": {
-    "E:\\Project\\RabbitMqSamples\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj": {
+    "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\RabbitMqSamples\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj",
-        "projectName": "RabbitMqSamples.PubSub.Pub",
-        "projectPath": "E:\\Project\\RabbitMqSamples\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj",
+        "projectUniqueName": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
+        "projectName": "RabbitMqSamples.Domain",
+        "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\RabbitMqSamples\\PubSub\\RabbitMqSamples.PubSub.Pub\\obj\\",
+        "outputPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,6 +48,153 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
+        "projectName": "RabbitMqSamples.Toolkit",
+        "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
+        "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
+        "outputPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arezo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj",
+        "projectName": "RabbitMqSamples.PubSub.Pub",
+        "projectPath": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj",
+        "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
+        "outputPath": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arezo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj": {
+                "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj"
+              },
+              "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj": {
+                "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\RabbitMqSamples\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj": {}
+    "E:\\RabbitMQ\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj": {}
   },
   "projects": {
-    "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj": {
+    "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
+        "projectUniqueName": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
         "projectName": "RabbitMqSamples.Domain",
-        "projectPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
+        "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\obj\\",
+        "outputPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj": {
+    "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
+        "projectUniqueName": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
         "projectName": "RabbitMqSamples.Toolkit",
-        "projectPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
+        "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\obj\\",
+        "outputPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "E:\\Project\\RabbitMqSamples\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj": {
+    "E:\\RabbitMQ\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\RabbitMqSamples\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj",
+        "projectUniqueName": "E:\\RabbitMQ\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj",
         "projectName": "RabbitMqSamples.Worker.Consumer",
-        "projectPath": "E:\\Project\\RabbitMqSamples\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj",
+        "projectPath": "E:\\RabbitMQ\\Worker\\RabbitMqSamples.Worker.Consumer\\RabbitMqSamples.Worker.Consumer.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\RabbitMqSamples\\Worker\\RabbitMqSamples.Worker.Consumer\\obj\\",
+        "outputPath": "E:\\RabbitMQ\\Worker\\RabbitMqSamples.Worker.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -166,11 +166,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj": {
-                "projectPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj"
+              "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj": {
+                "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain\\RabbitMqSamples.Domain.csproj"
               },
-              "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj": {
-                "projectPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj"
+              "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj": {
+                "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj"
               }
             }
           }

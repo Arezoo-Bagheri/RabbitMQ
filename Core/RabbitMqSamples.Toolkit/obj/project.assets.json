@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
+      "projectUniqueName": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
       "projectName": "RabbitMqSamples.Toolkit",
-      "projectPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
+      "projectPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\RabbitMqSamples.Toolkit.csproj",
       "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\RabbitMqSamples\\Core\\RabbitMqSamples.Toolkit\\obj\\",
+      "outputPath": "E:\\RabbitMQ\\Core\\RabbitMqSamples.Toolkit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

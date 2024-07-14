@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RabbitMqSamples.PubSub.Pub
-build_property.ProjectDir = E:\Project\RabbitMqSamples\PubSub\RabbitMqSamples.PubSub.Pub\
+build_property.ProjectDir = E:\RabbitMQ\PubSub\RabbitMqSamples.PubSub.Pub\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
