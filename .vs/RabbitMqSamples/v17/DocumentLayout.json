@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\RabbitMQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDF50EB6-196B-4EE7-A9D2-FB10A2BA5F35}|PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj|e:\\rabbitmq\\pubsub\\rabbitmqsamples.pubsub.pub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDF50EB6-196B-4EE7-A9D2-FB10A2BA5F35}|PubSub\\RabbitMqSamples.PubSub.Pub\\RabbitMqSamples.PubSub.Pub.csproj|solutionrelative:pubsub\\rabbitmqsamples.pubsub.pub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B76BE471-8DC2-4D8D-81E3-BF877EC7E8AE}|PubSub\\RabbitMqSamples.PubSub.Sub\\RabbitMqSamples.PubSub.Sub.csproj|e:\\rabbitmq\\pubsub\\rabbitmqsamples.pubsub.sub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76BE471-8DC2-4D8D-81E3-BF877EC7E8AE}|PubSub\\RabbitMqSamples.PubSub.Sub\\RabbitMqSamples.PubSub.Sub.csproj|solutionrelative:pubsub\\rabbitmqsamples.pubsub.sub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\Program.cs",
-              "RelativeDocumentMoniker": "PubSub\\RabbitMqSamples.PubSub.Pub\\Program.cs",
-              "ToolTip": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Pub\\Program.cs",
-              "RelativeToolTip": "PubSub\\RabbitMqSamples.PubSub.Pub\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "DocumentMoniker": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Sub\\Program.cs",
+              "RelativeDocumentMoniker": "PubSub\\RabbitMqSamples.PubSub.Sub\\Program.cs",
+              "ToolTip": "E:\\RabbitMQ\\PubSub\\RabbitMqSamples.PubSub.Sub\\Program.cs",
+              "RelativeToolTip": "PubSub\\RabbitMqSamples.PubSub.Sub\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T04:56:33.031Z",
+              "WhenOpened": "2024-07-14T05:09:34.164Z",
               "EditorCaption": ""
             }
           ]

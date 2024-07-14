@@ -10,3 +10,16 @@ E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitM
 E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\refint\RabbitMqSamples.Toolkit.dll
 E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.pdb
 E:\Project\RabbitMqSamples\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\ref\RabbitMqSamples.Toolkit.dll
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\bin\Debug\net8.0\RabbitMqSamples.Toolkit.deps.json
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\bin\Debug\net8.0\RabbitMqSamples.Toolkit.dll
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\bin\Debug\net8.0\RabbitMqSamples.Toolkit.pdb
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.csproj.AssemblyReference.cache
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.AssemblyInfoInputs.cache
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.AssemblyInfo.cs
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.csproj.CoreCompileInputs.cache
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.sourcelink.json
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.dll
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\refint\RabbitMqSamples.Toolkit.dll
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\RabbitMqSamples.Toolkit.pdb
+E:\RabbitMQ\Core\RabbitMqSamples.Toolkit\obj\Debug\net8.0\ref\RabbitMqSamples.Toolkit.dll
